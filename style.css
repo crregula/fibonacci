@@ -1,0 +1,14 @@
+#container {
+     height: auto;
+     width: 300px;
+}
+
+#fibonacci-numbers p {
+     display: inline-block;
+     height: 20px;
+     width: auto;
+     border: 2px solid gray;
+     text-align: center;
+     padding: 5px;
+     margin: 5px;
+}
